@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\CSharp_OOPs\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\Admin\source\repos\CSharp_OOPs\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\Admin\source\repos\CSharp_OOPs\ACM\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp_OOPs\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp_OOPs\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\Admin\source\repos\CSharp_OOPs\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
